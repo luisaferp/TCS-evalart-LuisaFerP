@@ -25,3 +25,5 @@ Feature: Contabilizar cada imagen parecida dentro de un conjunto en Evalart
 
 
 
+
+
